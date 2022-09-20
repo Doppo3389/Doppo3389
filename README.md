@@ -14,7 +14,7 @@
 ## :man_technologist: About Me :
 
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
+I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
 
 - :telescope: I work as a Pentester and part-time DevOps, I participate in the search for vulnerabilities in various systems, infrastructures, I work with AWS, Azure.
 
