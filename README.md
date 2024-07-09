@@ -11,19 +11,6 @@
 
 ---
 
-## :man_technologist: About Me :
-
-
-I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
-
-- :telescope: I work as a Pentester and part-time DevOps, I participate in the search for vulnerabilities in various systems, infrastructures, I work with AWS, Azure.
-
-- :seedling: Learning to write technical content.
-
-- :zap: In my spare time I participate in Hackathons and read technical articles.
-
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://t.me/Doppo_6379)
-
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
